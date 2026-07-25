@@ -11,9 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@google/genai": "^2.13.0",
     "discord.js": "^14.27.0",
     "dotenv": "^17.4.2",
-    "openai": "^6.49.0",
     "rss-parser": "^3.13.0"
   }
 }
